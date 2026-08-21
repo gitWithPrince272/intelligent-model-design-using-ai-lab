@@ -1,0 +1,12 @@
+{
+    "model": "Baseline ANN",
+    "architecture": "512-256-128",
+    "optimizer": "Adam",
+    "learning_rate": 0.001,
+    "batch_size": 128,
+    "epochs": 10,
+    "test_accuracy": 0.4957999885082245,
+    "test_loss": 1.4416661262512207,
+    "parameters": 1738890,
+    "training_time_seconds": 163.52557373046875
+}
